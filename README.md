@@ -7,3 +7,5 @@ BoardDuel Android版の公式ダウンロードページです。
 
 APKはリポジトリへ直接コミットせず、GitHub Releasesの`BoardDuel.apk`として公開します。
 新しい版を公開するときは、アプリの`versionCode`と`versionName`を更新し、同じリリース署名鍵でビルドしてから、このリポジトリの`version.json`と画面上のバージョン表示を更新します。
+
+`BoardDuel.apk`はGitHub Pagesから直接配信します。更新時はAPK本体に加えて、`version.json`のサイズとSHA-256も必ず同時に更新します。

@@ -3,5 +3,8 @@
   "minimumSupportedVersionCode": 1,
   "latestVersionName": "2",
   "message": "ホーム画面のバージョン表記をVer.に変更しました。",
-  "websiteUrl": "https://03715910.github.io/boardduel-download/"
+  "websiteUrl": "https://03715910.github.io/boardduel-download/",
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=2",
+  "apkSizeBytes": 4077766,
+  "apkSha256": "4beb50bbea24a75927e442c99f7fc6b5fa9c67b3a852c90b3cfed2c9176318f0"
 }
