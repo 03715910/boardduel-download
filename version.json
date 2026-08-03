@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 6,
+  "latestVersionCode": 7,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "6",
-  "message": "すごろくを遊びやすくしました。コマを中心に前後約3マスを拡大表示し、全体マップへ切り替えられます。サイコロ演出、1マスずつの移動、上・下の分岐選択にも対応しました。",
+  "latestVersionName": "7",
+  "message": "すごろくの演出を強化しました。カラフルな立体風コースとミニチュアの街並み、着地イベントカード、手番交代バナーを追加し、移動と交代のテンポも見やすく調整しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=6",
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=7",
   "apkSizeBytes": 4126918,
-  "apkSha256": "f881290789b71b8ff81fab5dbf891b4f17cfed6a0adf9682cffc63ccc9c2775a"
+  "apkSha256": "2938e9335b5fa0bd3daabce0e5bd7b73fc0933645f987f3ddb45b4ccfbe032c2"
 }
