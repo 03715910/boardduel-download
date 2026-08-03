@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 3,
+  "latestVersionCode": 5,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "3",
-  "message": "将棋の持ち駒を打つ操作を改善しました。合法なマスが光り、置けない理由も表示されます。",
+  "latestVersionName": "5",
+  "message": "すごろくを追加しました。1人・ローカル・2〜4人オンライン対戦に対応し、16色から自分のコマを選べます。将棋のオンライン対戦と持ち駒操作も追加・改善しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=3",
-  "apkSizeBytes": 4077766,
-  "apkSha256": "5f471493b8887e3ade8502c380630ceb84a78908207593b1cfccd30d89eb3f08"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=5",
+  "apkSizeBytes": 4126918,
+  "apkSha256": "37e66e9f98b76fbe964477b12104ad3a691ae369f2d23881f396178c61559647"
 }
