@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 2,
+  "latestVersionCode": 3,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "2",
-  "message": "ホーム画面のバージョン表記をVer.に変更しました。",
+  "latestVersionName": "3",
+  "message": "将棋の持ち駒を打つ操作を改善しました。合法なマスが光り、置けない理由も表示されます。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=2",
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=3",
   "apkSizeBytes": 4077766,
-  "apkSha256": "4beb50bbea24a75927e442c99f7fc6b5fa9c67b3a852c90b3cfed2c9176318f0"
+  "apkSha256": "5f471493b8887e3ade8502c380630ceb84a78908207593b1cfccd30d89eb3f08"
 }
