@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 5,
+  "latestVersionCode": 6,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "5",
-  "message": "すごろくを追加しました。1人・ローカル・2〜4人オンライン対戦に対応し、16色から自分のコマを選べます。将棋のオンライン対戦と持ち駒操作も追加・改善しました。",
+  "latestVersionName": "6",
+  "message": "すごろくを遊びやすくしました。コマを中心に前後約3マスを拡大表示し、全体マップへ切り替えられます。サイコロ演出、1マスずつの移動、上・下の分岐選択にも対応しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=5",
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=6",
   "apkSizeBytes": 4126918,
-  "apkSha256": "37e66e9f98b76fbe964477b12104ad3a691ae369f2d23881f396178c61559647"
+  "apkSha256": "f881290789b71b8ff81fab5dbf891b4f17cfed6a0adf9682cffc63ccc9c2775a"
 }
