@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 8,
+  "latestVersionCode": 9,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "5.0",
-  "message": "Ver. 5.0では、共通の対戦設定、将棋のルール・待った・補助表示、オンラインすごろくの2〜4人対戦・CPU参加・順番設定・切断対応、各ゲームの演出改善を追加しました。オンライン対戦の新仕様に対応するため更新が必要です。",
+  "latestVersionName": "5.1",
+  "message": "Ver. 5.1では、部屋作成後の設定変更を分かりやすくし、オセロの色を一覧から選べるようにしました。すごろくは待機室で自分とCPUの色を変更でき、入室時に色が重なった場合は空き色へ自動調整します。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=8",
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=9",
   "apkSizeBytes": 4176074,
-  "apkSha256": "a2bcd745880e0beab52a132340cd524b586b49c29becfbe1e25c7753dacbe2b7"
+  "apkSha256": "6e140c24ef135b9c58a1d2e1419cedadfd94153dfe5b017798f4b7032b26debb"
 }
