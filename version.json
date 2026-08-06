@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 9,
+  "latestVersionCode": 10,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "5.1",
-  "message": "Ver. 5.1では、部屋作成後の設定変更を分かりやすくし、オセロの色を一覧から選べるようにしました。すごろくは待機室で自分とCPUの色を変更でき、入室時に色が重なった場合は空き色へ自動調整します。",
+  "latestVersionName": "5.2",
+  "message": "Ver. 5.2では、オンライン対戦の流れを修正しました。まず部屋を作成または参加し、その後の待機室で色・先手・アシスト・人数・バトル・CPU設定などを決められます。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=9",
-  "apkSizeBytes": 4176074,
-  "apkSha256": "6e140c24ef135b9c58a1d2e1419cedadfd94153dfe5b017798f4b7032b26debb"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=10",
+  "apkSizeBytes": 4176078,
+  "apkSha256": "8f84ef1fe47653ebf4b685040d4a95b9810e4fc11ece1b4d6718a754306ea871"
 }
