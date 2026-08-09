@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 6,
+  "latestVersionCode": 7,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "4.2",
-  "message": "AIコトバーストの学習画像収集画面をスクロール可能にし、保存・スキップ・次へボタンを操作できるようにしました。",
+  "latestVersionName": "4.3",
+  "message": "学習画像収集を一括保存方式に変更し、入力内容を保持したまま前後移動できるようにしました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=6",
-  "apkSizeBytes": 96386571,
-  "apkSha256": "8be7ac02555dd2dccdb2dca5cc431af53b3b72ad05d39bf3df21016f79f773b1"
+  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=7",
+  "apkSizeBytes": 96386575,
+  "apkSha256": "d50618a4083999892f33404470b956e2fe3dea045748b974a66955790b2e3e72"
 }
