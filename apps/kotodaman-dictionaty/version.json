@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 5,
+  "latestVersionCode": 6,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "4.1",
-  "message": "AIコトバーストの学習画像収集と未同期画像の再アップロード機能を追加しました。",
+  "latestVersionName": "4.2",
+  "message": "AIコトバーストの学習画像収集画面をスクロール可能にし、保存・スキップ・次へボタンを操作できるようにしました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=5",
-  "apkSizeBytes": 96386427,
-  "apkSha256": "501b90ffda13d7ca55a36cc1969e2c43622f4003e90e7ea47630c8f9697c8284"
+  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=6",
+  "apkSizeBytes": 96386571,
+  "apkSha256": "8be7ac02555dd2dccdb2dca5cc431af53b3b72ad05d39bf3df21016f79f773b1"
 }
