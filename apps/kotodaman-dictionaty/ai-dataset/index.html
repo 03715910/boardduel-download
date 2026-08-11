@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#6e4eb3">
+  <title>AIコトバースト 学習画像状況</title>
+  <link rel="stylesheet" href="./styles.css?v=1">
+</head>
+<body>
+  <header class="page-header">
+    <div class="header-inner">
+      <a class="back-link" href="../">アプリ情報へ</a>
+      <h1>AIコトバースト 学習画像状況</h1>
+      <p>Supabaseの最新画像と、学習へ流用する旧raw候補を合算しています。</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="status-bar" aria-live="polite">
+      <div>
+        <strong id="loadStatus">画像数を確認しています...</strong>
+        <span id="updatedAt"></span>
+      </div>
+      <button id="refreshButton" type="button">更新</button>
+    </section>
+
+    <section class="summary-grid" aria-label="画像数の概要">
+      <div class="summary-item">
+        <span>現在のAI収集画像</span>
+        <strong id="currentTotal">-</strong>
+      </div>
+      <div class="summary-item">
+        <span>旧raw候補</span>
+        <strong id="legacyTotal">55</strong>
+      </div>
+      <div class="summary-item">
+        <span>学習候補合計</span>
+        <strong id="combinedTotal">-</strong>
+      </div>
+      <div class="summary-item ready">
+        <span>10枚以上の文字</span>
+        <strong id="readyKanaCount">-</strong>
+      </div>
+    </section>
+
+    <section class="type-summary" aria-labelledby="typeSummaryTitle">
+      <div>
+        <h2 id="typeSummaryTitle">種類別</h2>
+        <p>現在画像と旧raw候補の合計です。</p>
+      </div>
+      <dl>
+        <div><dt>NORMAL</dt><dd id="normalTotal">-</dd></div>
+        <div><dt>HINT</dt><dd id="hintTotal">-</dd></div>
+        <div><dt>EMPTY</dt><dd id="emptyTotal">-</dd></div>
+      </dl>
+    </section>
+
+    <section class="kana-section" aria-labelledby="kanaTitle">
+      <div class="section-heading">
+        <div>
+          <h2 id="kanaTitle">文字ごとの収集状況</h2>
+          <p>現在の学習開始目安は1文字あたり合計10枚です。</p>
+        </div>
+        <div class="filter-controls">
+          <label for="kanaSearch">文字を検索</label>
+          <input id="kanaSearch" type="search" maxlength="1" inputmode="text" placeholder="例：い">
+          <div class="segmented" role="group" aria-label="表示対象">
+            <button id="shortageOnlyButton" class="selected" type="button">不足のみ</button>
+            <button id="showAllButton" type="button">すべて</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">文字</th>
+              <th scope="col">NORMAL</th>
+              <th scope="col">HINT</th>
+              <th scope="col">合計</th>
+              <th scope="col">不足</th>
+              <th scope="col">状態</th>
+            </tr>
+          </thead>
+          <tbody id="kanaRows"></tbody>
+        </table>
+      </div>
+      <p id="emptyListMessage" class="empty-message" hidden>条件に一致する文字はありません。</p>
+    </section>
+
+    <section class="notes" aria-labelledby="notesTitle">
+      <h2 id="notesTitle">見方</h2>
+      <p><strong>現在のAI収集画像</strong>は、アプリから登録したSupabase上の画像をライブ集計します。</p>
+      <p><strong>旧raw候補</strong>は、重複を除いて学習へ流用する55枚です。Supabase上の元画像は変更していません。</p>
+      <p>合計10枚は学習対象を選ぶための現在の最低目安です。モデル品質はNORMAL/HINTの内訳、撮影条件、Validation/Test結果も含めて判断します。</p>
+    </section>
+  </main>
+
+  <script src="./config.js?v=1"></script>
+  <script src="./dashboard.js?v=1"></script>
+</body>
+</html>

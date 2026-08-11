@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 9,
+  "latestVersionCode": 10,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "4.5",
-  "message": "学習画像収集で、2回目以降の撮影でも通常・ヒント・空マスを選択できるよう修正しました。",
+  "latestVersionName": "4.6",
+  "message": "AIコトバーストに学習画像状況ページへのボタンを追加しました。文字ごとの画像数と不足数を確認できます。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=9",
-  "apkSizeBytes": 98609056,
-  "apkSha256": "a486ff88dce8d79fd5105c862001219a4a89911dbc8c9b49d232d7cccad10cc5"
+  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=10",
+  "apkSizeBytes": 98609168,
+  "apkSha256": "2083c2c8d93e4d1f81c0bdc2857d59bafa7b5001b64c3c3b3f46460ba02c8c96"
 }
