@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 10,
+  "latestVersionCode": 11,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "4.6",
-  "message": "AIコトバーストに学習画像状況ページへのボタンを追加しました。文字ごとの画像数と不足数を確認できます。",
+  "latestVersionName": "4.7",
+  "message": "学習画像状況ボタンで、ブラウザが見つからないと誤判定される問題を修正しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=10",
+  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=11",
   "apkSizeBytes": 98609168,
-  "apkSha256": "2083c2c8d93e4d1f81c0bdc2857d59bafa7b5001b64c3c3b3f46460ba02c8c96"
+  "apkSha256": "521aad7c24e9331b8369946966a2b973fad3c2740337e7c823adac04a9ab76fd"
 }
