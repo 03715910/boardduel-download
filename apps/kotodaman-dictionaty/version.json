@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 8,
+  "latestVersionCode": 9,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "4.4",
-  "message": "AIコトバーストの端末内AI・旧方式フォールバック基盤と、学習画像収集の一括登録・保存除外を追加しました。",
+  "latestVersionName": "4.5",
+  "message": "学習画像収集で、2回目以降の撮影でも通常・ヒント・空マスを選択できるよう修正しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=8",
+  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=9",
   "apkSizeBytes": 98609056,
-  "apkSha256": "7d247fbc7035bab739fb2336b69c669113f0a4829488a3c1d508f1b952d4c8a6"
+  "apkSha256": "a486ff88dce8d79fd5105c862001219a4a89911dbc8c9b49d232d7cccad10cc5"
 }
