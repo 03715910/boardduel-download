@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 12,
+  "latestVersionCode": 13,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "4.8",
-  "message": "未同期の学習画像が空ファイルになり、再アップロードできなくなる問題を修正しました。",
+  "latestVersionName": "4.8.1",
+  "message": "AIモデルの公開情報とモデル情報が一時的にずれて取得された場合に、キャッシュを使わず自動再取得するよう修正しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=12",
-  "apkSizeBytes": 98609168,
-  "apkSha256": "25ee4ce5572eeaf71871e8d942a62b140e11a1548f444296a61e7c5e4a49d19c"
+  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=13",
+  "apkSizeBytes": 98609164,
+  "apkSha256": "fe62b584980a8c6fe805434008928200227ee99b899c4df414f1b92ec92db28d"
 }
