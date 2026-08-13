@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 13,
+  "latestVersionCode": 14,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "4.8.1",
-  "message": "AIモデルの公開情報とモデル情報が一時的にずれて取得された場合に、キャッシュを使わず自動再取得するよう修正しました。",
+  "latestVersionName": "4.8.2",
+  "message": "AIモデル情報の再取得時に、latest.jsonの最大サイズを実サイズとして誤って比較していた問題を修正しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=13",
+  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=14",
   "apkSizeBytes": 98609164,
-  "apkSha256": "fe62b584980a8c6fe805434008928200227ee99b899c4df414f1b92ec92db28d"
+  "apkSha256": "8f9da065e996f3f047ba111dfd14f9e5d0018fe9f11d71b056c6d6b4863beb0e"
 }
