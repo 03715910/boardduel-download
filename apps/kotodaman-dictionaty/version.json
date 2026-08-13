@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 11,
+  "latestVersionCode": 12,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "4.7",
-  "message": "学習画像状況ボタンで、ブラウザが見つからないと誤判定される問題を修正しました。",
+  "latestVersionName": "4.8",
+  "message": "未同期の学習画像が空ファイルになり、再アップロードできなくなる問題を修正しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=11",
+  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=12",
   "apkSizeBytes": 98609168,
-  "apkSha256": "521aad7c24e9331b8369946966a2b973fad3c2740337e7c823adac04a9ab76fd"
+  "apkSha256": "25ee4ce5572eeaf71871e8d942a62b140e11a1548f444296a61e7c5e4a49d19c"
 }
