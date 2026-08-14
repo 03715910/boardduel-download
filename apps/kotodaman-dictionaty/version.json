@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 15,
+  "latestVersionCode": 16,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "4.8.3",
-  "message": "AIモデルの一時保存フォルダ名をモデル番号として誤って検証していた問題を修正しました。",
+  "latestVersionName": "4.8.4",
+  "message": "AIことば検索の再検索を、検索後は一度リセットしてライブ映像を確認し、次のタップで撮影する動作へ変更しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=15",
+  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=16",
   "apkSizeBytes": 98609164,
-  "apkSha256": "f6429454a425368ac7b4b50bdc84d6700226e73a7f96d60aaf978e5ca0d15c32"
+  "apkSha256": "9627bf42bd05a112d6f0832a5d5795b489e1b1ac873afa72634e8d8e37c296ce"
 }
