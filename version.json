@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 10,
+  "latestVersionCode": 12,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "5.2",
-  "message": "Ver. 5.2では、オンライン対戦の流れを修正しました。まず部屋を作成または参加し、その後の待機室で色・先手・アシスト・人数・バトル・CPU設定などを決められます。",
+  "latestVersionName": "5.4",
+  "message": "起動時にオンライン画面へ移動する問題を修正しました。オセロ・将棋・すごろくのオンライン対戦終了後に、相手の『続ける』または退出状況を表示し、参加者が退出できなくなる問題も修正しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=10",
-  "apkSizeBytes": 4176078,
-  "apkSha256": "8f84ef1fe47653ebf4b685040d4a95b9810e4fc11ece1b4d6718a754306ea871"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=12",
+  "apkSizeBytes": 4176074,
+  "apkSha256": "6dcd120f8f55eca10056f4ae2a231248eaef68577158d0fe8a26d725a3941dc3"
 }
