@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 12,
+  "latestVersionCode": 13,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "5.4",
-  "message": "起動時にオンライン画面へ移動する問題を修正しました。オセロ・将棋・すごろくのオンライン対戦終了後に、相手の『続ける』または退出状況を表示し、参加者が退出できなくなる問題も修正しました。",
+  "latestVersionName": "5.5",
+  "message": "オンライン対戦中の手番を分かりやすくしました。オセロ・将棋・すごろくの画面上部に『あなたのターン／相手のターン』を表示し、ターン切替時のカットイン演出も追加・調整しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=12",
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=13",
   "apkSizeBytes": 4176074,
-  "apkSha256": "6dcd120f8f55eca10056f4ae2a231248eaef68577158d0fe8a26d725a3941dc3"
+  "apkSha256": "ed8e9cb733f9708e0ff5f05d1acf12c6915f0e64de9ac6c9a4ce227c3aa3c05e"
 }
