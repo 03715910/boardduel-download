@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 14,
+  "latestVersionCode": 15,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "5.6",
-  "message": "オセロのオンライン対戦に、相手の許可が必要な『一手戻す』機能を追加しました。申請中は着手を止め、承認時だけ直前の盤面・手番へ安全に戻ります。",
+  "latestVersionName": "6.0",
+  "message": "ゲーム構成をオセロと将棋に整理し、すごろく機能をアプリ・オンライン通信・Firebaseルールから削除しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=14",
-  "apkSizeBytes": 4176074,
-  "apkSha256": "688808abd7968a20a30a2622944fd73c9c0eb2601948676bd26ac4234fa9dffd"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=15",
+  "apkSizeBytes": 4126922,
+  "apkSha256": "1d3e5c2fcc2def5ae8475d01b9979f4c84e03bf62c28b7c9370aaf907605a527"
 }
