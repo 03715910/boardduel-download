@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 15,
+  "latestVersionCode": 16,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "6.0",
-  "message": "ゲーム構成をオセロと将棋に整理し、すごろく機能をアプリ・オンライン通信・Firebaseルールから削除しました。",
+  "latestVersionName": "7.0",
+  "message": "オセロに育成AIを追加しました。育成モードだけで成長し、AIの公開設定、公開AIとの対戦、AI対AIの公開対局と途中観戦、AIデータの端末引き継ぎに対応しています。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=15",
-  "apkSizeBytes": 4126922,
-  "apkSha256": "1d3e5c2fcc2def5ae8475d01b9979f4c84e03bf62c28b7c9370aaf907605a527"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=16",
+  "apkSizeBytes": 4159694,
+  "apkSha256": "37a5c99ff416d0692b6b5553435dedb2c115561acde0212f416efcc8561b7473"
 }
