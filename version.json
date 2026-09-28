@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 17,
+  "latestVersionCode": 18,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "7.1",
-  "message": "AIとの対戦とAI対AIの対局で、先攻・後攻・ランダムを選べるようにしました。育成モードはこれまでどおり、あなたが先攻です。",
+  "latestVersionName": "7.2",
+  "message": "育成AI一覧で、AIをタップすると育成を開始し、長押しすると名前・公開範囲などの設定画面を開けるようにしました。育成AIのホーム画面も整理しています。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=17",
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=18",
   "apkSizeBytes": 4159694,
-  "apkSha256": "24f24c5808f11ae3c3eb21790808d3f1ad7e67f8e78f867c2cfa225a1715917e"
+  "apkSha256": "4f93cdeed436fa8bc7c9f62d413564cf4af6a6cf94815802cdd4e388173e6088"
 }
