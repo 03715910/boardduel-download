@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 19,
+  "latestVersionCode": 20,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "7.3",
-  "message": "育成モードでも、対局開始前にあなたの先攻・後攻・ランダムを選べるようにしました。AIが先攻の場合は自動で初手を打ちます。",
+  "latestVersionName": "8.0",
+  "message": "オセロ育成AI Phase 1を実装しました。新規AIを初心者相当から育てられ、敗北原因・弱点・成功体験をAIごとの性格に応じて学習します。旧AIデータも引き続き利用できます。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=19",
-  "apkSizeBytes": 4159694,
-  "apkSha256": "88357c98d4412d459f6f1980fd8f646ff1144b7c9de3759a89b81c9b805b821f"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=20",
+  "apkSizeBytes": 4176078,
+  "apkSha256": "150d0c9b398c8fde062b09c38fbf72dde0dbaf4f6e36b76a66c4735a81af4f1a"
 }
