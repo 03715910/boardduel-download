@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 23,
+  "latestVersionCode": 24,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "11.0",
-  "message": "育成AIに短期的な自信・トラウマ・過信と、長期的な局面適性・価値観を追加しました。成長記録から現在の精神状態、得意局面、価値観を確認できます。",
+  "latestVersionName": "12.0",
+  "message": "育成AIが対戦相手ごとの角・辺・大量取り・終盤の傾向を匿名で覚え、対局中も軽く適応するようになりました。複数の相手で役立った教訓は一般知識へ昇格し、好敵手も認識します。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=23",
-  "apkSizeBytes": 4192458,
-  "apkSha256": "13a2578fcc4352ef0ba674494ca602b582b63938652ee6c2075d85f655498c8b"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=24",
+  "apkSizeBytes": 4192462,
+  "apkSha256": "f8e9caf3b1bed383197ad75815213fd5ce5fcb2ada3200125840c42fd5212bf1"
 }
