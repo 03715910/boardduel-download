@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 21,
+  "latestVersionCode": 22,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "9.0",
-  "message": "育成AIが似た失敗を一般的な教訓として覚えるようになりました。繰り返した経験は忘れにくく、成功が続くと弱点を少しずつ克服します。旧AIデータも引き続き利用できます。",
+  "latestVersionName": "10.0",
+  "message": "育成AIに複数の得意戦法、理解段階、ブレイクスルー、最大30件の成長イベントを追加しました。AI設定から成長記録と現在のAIコメントを確認できます。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=21",
-  "apkSizeBytes": 4176078,
-  "apkSha256": "613248d8c17b7880a118af126727d70fd1da923009d76c894ceb96d58d5fb3fc"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=22",
+  "apkSizeBytes": 4192462,
+  "apkSha256": "a72b39a42fc07c3a501f31f592838e478e594fa7f3dfdff19b901cb9c769aa56"
 }
