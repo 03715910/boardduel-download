@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 24,
+  "latestVersionCode": 25,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "12.0",
-  "message": "育成AIが対戦相手ごとの角・辺・大量取り・終盤の傾向を匿名で覚え、対局中も軽く適応するようになりました。複数の相手で役立った教訓は一般知識へ昇格し、好敵手も認識します。",
+  "latestVersionName": "13.0",
+  "message": "育成AIが10局ごとに失敗と克服を振り返り、具体的な教訓を抽象知識へ整理するようになりました。性格・弱点・局面適性に応じた成長ルート、停滞からの短い急成長も追加しています。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=24",
-  "apkSizeBytes": 4192462,
-  "apkSha256": "f8e9caf3b1bed383197ad75815213fd5ce5fcb2ada3200125840c42fd5212bf1"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=25",
+  "apkSizeBytes": 4208846,
+  "apkSha256": "2bf16541f3686a8b174f91975a695eb1566e0c6e4ecddfaa552b1cc671ba72ba"
 }
