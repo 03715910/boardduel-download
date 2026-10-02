@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 25,
+  "latestVersionCode": 26,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "13.0",
-  "message": "育成AIが10局ごとに失敗と克服を振り返り、具体的な教訓を抽象知識へ整理するようになりました。性格・弱点・局面適性に応じた成長ルート、停滞からの短い急成長も追加しています。",
+  "latestVersionName": "14.0",
+  "message": "育成AIに世代・限定継承・師匠AIを追加しました。AI対AIでも自分のAIだけが少し学びますが、他流試合の学習量と回数には上限があり、他人のAIは変更しません。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=25",
-  "apkSizeBytes": 4208846,
-  "apkSha256": "2bf16541f3686a8b174f91975a695eb1566e0c6e4ecddfaa552b1cc671ba72ba"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=26",
+  "apkSizeBytes": 4208842,
+  "apkSha256": "4ab3195ab2819308b0453fd8bc12b49a80aa68ab8d043fd8f5fc50e21eb34584"
 }
