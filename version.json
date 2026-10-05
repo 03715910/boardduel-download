@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 27,
+  "latestVersionCode": 28,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "14.1",
-  "message": "オセロのAI育成で、プレイヤーが後攻（白）のときに置ける場所の印が表示されない問題を修正しました。",
+  "latestVersionName": "8.61",
+  "message": "表示バージョンをVer.8.61へ整理しました。旧Ver.14.1の機能とデータは引き継がれます。今後は大型追加を整数、修正や小さな追加を小数部分で更新します。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=27",
-  "apkSizeBytes": 4208842,
-  "apkSha256": "c9dfe193d9d7afb87c01b507630f0e4c53fa66d98e144cbae402ba4d3ecdd359"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=28",
+  "apkSizeBytes": 4208850,
+  "apkSha256": "69a637b997e750587097e175da3e88e60d955eaefbc7bf37ea7ecfeb64a7f2c3"
 }
