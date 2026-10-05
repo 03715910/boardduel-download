@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 26,
+  "latestVersionCode": 27,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "14.0",
-  "message": "育成AIに世代・限定継承・師匠AIを追加しました。AI対AIでも自分のAIだけが少し学びますが、他流試合の学習量と回数には上限があり、他人のAIは変更しません。",
+  "latestVersionName": "14.1",
+  "message": "オセロのAI育成で、プレイヤーが後攻（白）のときに置ける場所の印が表示されない問題を修正しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=26",
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=27",
   "apkSizeBytes": 4208842,
-  "apkSha256": "51f9ce0268f6a4ae974aa3fb70dab34ee034e7bf97143c0248ef7ed218c29509"
+  "apkSha256": "c9dfe193d9d7afb87c01b507630f0e4c53fa66d98e144cbae402ba4d3ecdd359"
 }
