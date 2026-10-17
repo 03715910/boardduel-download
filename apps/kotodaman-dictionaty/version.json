@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 16,
+  "latestVersionCode": 18,
   "minimumSupportedVersionCode": 1,
-  "latestVersionName": "4.8.4",
-  "message": "AIことば検索の再検索を、検索後は一度リセットしてライブ映像を確認し、次のタップで撮影する動作へ変更しました。",
+  "latestVersionName": "4.8.6",
+  "message": "通常検索で、履歴が2件の場合や同じ履歴を続けて選んだ場合も検索欄へ正しく反映されるよう修正しました。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=16",
+  "apkUrl": "https://03715910.github.io/boardduel-download/apps/kotodaman-dictionaty/KotodamanDictionaty.apk?v=18",
   "apkSizeBytes": 98609164,
-  "apkSha256": "9627bf42bd05a112d6f0832a5d5795b489e1b1ac873afa72634e8d8e37c296ce"
+  "apkSha256": "9f0efd3cfd92171fb6861ca5d210957a04fa01b28863b5f99d4ca7952b40334b"
 }
