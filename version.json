@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 29,
+  "latestVersionCode": 30,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "9.0",
-  "message": "新ゲームONOを追加！5色のカードでCPU対戦・最大4人のオンライン対戦・開始前参加の観戦ができます。ドパガキ、ことバースト、オリジナル特殊カードも搭載。オセロ・将棋・育成AIと保存データはそのまま引き継げます。",
+  "latestVersionName": "9.1",
+  "message": "ONOを改善！1位の後も順位を決めながら対局を続行し、CPUが先に上がっても遊べます。カード図鑑・特殊カード絞り込みを追加。手札は扇型で、選択後に『このカードを出す』で使用します。ONOオンラインは全員9.1に更新して新しい部屋を作ってください。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=29",
-  "apkSizeBytes": 4290818,
-  "apkSha256": "3e90ee002c69ae7fb6e07c6de8b98cd2042cdba4fd85ea09d2aedd36c08c1599"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=30",
+  "apkSizeBytes": 4307202,
+  "apkSha256": "99b9ad0052d1b8d3d522ccaa8835b7e75111316a32fc456e98a9fac69bd3c30a"
 }
