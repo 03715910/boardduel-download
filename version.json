@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 30,
+  "latestVersionCode": 31,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "9.1",
-  "message": "ONOを改善！1位の後も順位を決めながら対局を続行し、CPUが先に上がっても遊べます。カード図鑑・特殊カード絞り込みを追加。手札は扇型で、選択後に『このカードを出す』で使用します。ONOオンラインは全員9.1に更新して新しい部屋を作ってください。",
+  "latestVersionName": "9.11",
+  "message": "ONOの表示・操作を改善！PEEKは通常の比率のカードで表示。1タップで選択、ダブルタップで使用、指でなぞる間はカードを拡大確認できます。先攻サイコロは各出目と先攻・同率を表示し、全員が『次へ』を押してから進みます。ゲームルールは変更しません。ONOオンラインは全員9.11に更新して新しい部屋を作ってください。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=30",
-  "apkSizeBytes": 4307202,
-  "apkSha256": "99b9ad0052d1b8d3d522ccaa8835b7e75111316a32fc456e98a9fac69bd3c30a"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=31",
+  "apkSizeBytes": 4307206,
+  "apkSha256": "835a6bf721fd2625e0f12214c531942e37c46a9d750124ad5c7428e7e0f4209b"
 }
