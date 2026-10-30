@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 32,
+  "latestVersionCode": 33,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "9.2",
-  "message": "ONOの手札をページなしの連続スクロールへ変更！全体バーで手札の色と表示範囲を確認でき、タップ・指なぞり・ダブルタップも使えます。1人対CPUには『制限時間なし』を追加（自分の手番のみ、宣言・クイズ・PEEKの時間は通常どおり）。メニュー・設定・ルーム・対局の外枠をオセロ／将棋と共通UIへ統一しました。オンラインの時計、カード効果、CPU方針、勝利条件は維持しています。",
+  "latestVersionName": "9.21",
+  "message": "ONOの勝ち抜け後は、残り全員（人間・CPU）の手札を表向きで観戦できます。手札は自動更新され、勝ち抜けた人は操作できません。ドパガキは数字1枚になった瞬間から10秒の判定を保護。出せるカードがあっても、1枚引いて即ターン終了し温存できます（通常の出せない時のドローとは別）。カード効果・CPU方針・ことバースト・順位条件は維持。オンラインは全員更新して新しい部屋を作ってください。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=32",
-  "apkSizeBytes": 4307202,
-  "apkSha256": "745e1198173f3bd09d47bba9cad8a7754deace12617feaef2b12321bea87c8a5"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=33",
+  "apkSizeBytes": 4307210,
+  "apkSha256": "0f784eb634c44185bd0fccd52070aa2ecec85d83a2d0f24c5dd7ee99313a8267"
 }
