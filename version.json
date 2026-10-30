@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 34,
+  "latestVersionCode": 35,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "9.22",
-  "message": "ONOの勝ち抜け観戦を、通常の対局画面内の手札表示へ改善しました。残りの人間・CPUごとに名前と枚数を表示し、普段と同じ扇型のカードを左右スワイプ・タップ拡大で確認できます。画面が狭い場合は上下でプレイヤーを移動。別の個別カード一覧は廃止し、手札は自動更新されます。観戦中のカード使用は不可。ゲームルール・CPU・通信・手札公開範囲は変更していません。Ver.9.21の部屋はそのまま使えます。",
+  "latestVersionName": "9.23",
+  "message": "オセロを3点修正しました。育成の先攻・後攻をランダムで選んだ場合は、もう一度でも毎回抽選し直します（同じ側が続くこともあります）。AI対AIでは盤の上に黒・先攻と白・後攻のAI名を表示。オンラインの手番・カットイン・石数・結果の色名は、実際に選択した色へ合わせました。先攻固定・後攻固定、AIの学習・強さ、ゲームルール・オンライン通信は変更していません。既存の部屋もそのまま使えます。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=34",
-  "apkSizeBytes": 4323594,
-  "apkSha256": "d9b40e90999699553904aac7ad12850b4d92bc88ac3d022f150be8a3c6918698"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=35",
+  "apkSizeBytes": 4323590,
+  "apkSha256": "65e053e9e2f5363c8ead66bbf6eb9effc431999442a60213e8aa737d20b2f1df"
 }
