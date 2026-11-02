@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 35,
+  "latestVersionCode": 36,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "9.23",
-  "message": "オセロを3点修正しました。育成の先攻・後攻をランダムで選んだ場合は、もう一度でも毎回抽選し直します（同じ側が続くこともあります）。AI対AIでは盤の上に黒・先攻と白・後攻のAI名を表示。オンラインの手番・カットイン・石数・結果の色名は、実際に選択した色へ合わせました。先攻固定・後攻固定、AIの学習・強さ、ゲームルール・オンライン通信は変更していません。既存の部屋もそのまま使えます。",
+  "latestVersionName": "9.24",
+  "message": "ONOのオンライン再戦を修正しました。希望が保存されると「再戦希望中」と表示し、他の人にも希望状態と人数が伝わります。希望者1人ではCPUがいても待機し、2人以上の希望と前試合の戦績保存を確認したら、希望済みの人だけで自動的に新しい対戦を開始します。手札・山札・場札・順位・手番などは初期化。既存のカード効果・CPU・観戦・戦績ルールは変更していません。ホストを含め全員の更新をお願いします。Firebase設定の変更は不要です。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=35",
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=36",
   "apkSizeBytes": 4323590,
-  "apkSha256": "65e053e9e2f5363c8ead66bbf6eb9effc431999442a60213e8aa737d20b2f1df"
+  "apkSha256": "6777bd79300a1e415641ad9d2e3184830cd3e11f6febfcc833d82f4e0ba1bdb5"
 }
