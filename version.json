@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 36,
+  "latestVersionCode": 37,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "9.24",
-  "message": "ONOのオンライン再戦を修正しました。希望が保存されると「再戦希望中」と表示し、他の人にも希望状態と人数が伝わります。希望者1人ではCPUがいても待機し、2人以上の希望と前試合の戦績保存を確認したら、希望済みの人だけで自動的に新しい対戦を開始します。手札・山札・場札・順位・手番などは初期化。既存のカード効果・CPU・観戦・戦績ルールは変更していません。ホストを含め全員の更新をお願いします。Firebase設定の変更は不要です。",
+  "latestVersionName": "9.25",
+  "message": "ONOのドパガキ宣言の猶予を10秒から5秒に短縮しました。数字カードが残り1枚になってから5秒経っても未宣言なら、ペナルティクイズが始まります。クイズは従来どおり1問5秒・10問連続正解です。オンラインではホストを含め全員の更新をお願いします。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=36",
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=37",
   "apkSizeBytes": 4323590,
-  "apkSha256": "6777bd79300a1e415641ad9d2e3184830cd3e11f6febfcc833d82f4e0ba1bdb5"
+  "apkSha256": "18a12733e512f9834afb0acb15c92bc16dec4100d82af628447c905a84a88143"
 }
