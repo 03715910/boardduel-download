@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 37,
+  "latestVersionCode": 38,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "9.25",
-  "message": "ONOのドパガキ宣言の猶予を10秒から5秒に短縮しました。数字カードが残り1枚になってから5秒経っても未宣言なら、ペナルティクイズが始まります。クイズは従来どおり1問5秒・10問連続正解です。オンラインではホストを含め全員の更新をお願いします。",
+  "latestVersionName": "9.3",
+  "message": "ONOのルール設定で紫のカードをON/OFFできるようになりました。初期設定はOFF（4色・標準124枚）。ONにすると従来の5色・150枚で遊べます。オンラインONOは全員が更新してから新しい部屋を作ってください。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=37",
-  "apkSizeBytes": 4323590,
-  "apkSha256": "18a12733e512f9834afb0acb15c92bc16dec4100d82af628447c905a84a88143"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=38",
+  "apkSizeBytes": 4323586,
+  "apkSha256": "d53beacf1dbab3b706b396a42f068d1867206a9fa85c633aa39ba4d9f7804962"
 }
