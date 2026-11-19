@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 38,
+  "latestVersionCode": 39,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "9.3",
-  "message": "ONOのルール設定で紫のカードをON/OFFできるようになりました。初期設定はOFF（4色・標準124枚）。ONにすると従来の5色・150枚で遊べます。オンラインONOは全員が更新してから新しい部屋を作ってください。",
+  "latestVersionName": "10.0",
+  "message": "新ゲーム『七煌麻雀（仮称）』のPhase 1・基礎確認版を追加しました。136枚の牌、ツモ・打牌、和了判定、基本役と点数、流局を手動4席で試せます。まだ正式対戦版ではなく、CPU・オンライン・役ナビ・完成版演出は後続Phaseです。既存のオセロ・将棋・ONOはそのまま遊べます。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=38",
-  "apkSizeBytes": 4323586,
-  "apkSha256": "d53beacf1dbab3b706b396a42f068d1867206a9fa85c633aa39ba4d9f7804962"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=39",
+  "apkSizeBytes": 4340002,
+  "apkSha256": "f25011d9ba21b4eccf892b9b2e4942816b02c9e238acf834a11c9102e32bda91"
 }
