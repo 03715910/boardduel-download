@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 42,
+  "latestVersionCode": 43,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "10.21",
-  "message": "七煌麻雀の安定性を改善しました。バックグラウンドからの復帰、正常な操作中に確認待ち警告が出る問題、終局後の再接続と最後の退出を修正。役ナビの不足・条件外の牌表示、長いプレイヤー名、属性に合った演出牌も改善しました。既存のオセロ・将棋・ONOと麻雀の基本ルールは変更していません。一緒に遊ぶ方も最新版へ更新してください。",
+  "latestVersionName": "10.3",
+  "message": "七煌麻雀の画面を本物の麻雀卓に近い見た目へ改修しました。厚みのある牌に大きな数字・属性を表示し、捨て牌は四方向に6枚ずつ整列。各席の捨て牌をタップすると拡大して全履歴を確認できます。スマホの画面幅に合わせて配置し、対局中だけ全画面表示にします。タップ・スワイプ・ダブルタップ操作、ゲームルール、CPU、オンライン対戦は維持しています。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=42",
-  "apkSizeBytes": 4421978,
-  "apkSha256": "b3597c1ff9203fa91cccf82545ac533a683f5cd641195c9489f31ea0b30adf41"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=43",
+  "apkSizeBytes": 4421982,
+  "apkSha256": "2c7f83ec2100af344e817e75e181021337f62916f02bb1b50227249576712751"
 }
