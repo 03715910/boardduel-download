@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 40,
+  "latestVersionCode": 41,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "10.1",
-  "message": "ホームのゲーム選択を、大きいカードのまま上下にスクロールできる表示に変更しました。七煌麻雀はPhase 2として、チー・技（ポン）・凄技（カン）・リーチ・ロン、応答の優先処理、フリテン、基本ローカルルール設定を追加しました。麻雀は引き続き手動4席の基礎確認版です。CPU・オンライン・役ナビ・完成版演出は後続Phaseです。既存のオセロ・将棋・ONOは維持しています。",
+  "latestVersionName": "10.2",
+  "message": "七煌麻雀のPhase 3〜8を追加しました。横画面の手牌操作、役ナビ、CPU3人との対戦、最大4人オンラインと切断時のCPU代行、オリジナル牌、18項目の操作チュートリアル、BGM・SE・役別演出に対応しました。タップで選択、横スワイプで移動、上スワイプやダブルタップで打牌できます。麻雀ホームで音・振動・演出軽減を設定できます。既存のオセロ・将棋・ONOとホームのスクロールは維持しています。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=40",
-  "apkSizeBytes": 4356390,
-  "apkSha256": "c566c27440f76e7d258cfcb58154237ef291fd80632ca9b8376276de7f11faa2"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=41",
+  "apkSizeBytes": 4405598,
+  "apkSha256": "b92d4e5cd53f69e693888f4dc1b27c2fbdc648ff8839ac24af5c77f70d990b41"
 }
