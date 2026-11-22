@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 43,
+  "latestVersionCode": 44,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "10.3",
-  "message": "七煌麻雀の画面を本物の麻雀卓に近い見た目へ改修しました。厚みのある牌に大きな数字・属性を表示し、捨て牌は四方向に6枚ずつ整列。各席の捨て牌をタップすると拡大して全履歴を確認できます。スマホの画面幅に合わせて配置し、対局中だけ全画面表示にします。タップ・スワイプ・ダブルタップ操作、ゲームルール、CPU、オンライン対戦は維持しています。",
+  "latestVersionName": "10.4",
+  "message": "七煌麻雀のチュートリアルを5レベル式にしました。牌と完成形、自分と相手の番、ツモ・ロン・点数、チー・技・凄技・リーチを固定のお手本と実操作で練習し、最後は模擬1局を体験できます。押す場所の案内、再生・一時停止・1手ずつ、途中再開と復習に対応。従来の18項目も辞典に残しています。通常対戦・CPU・オンラインのルールは変更していません。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=43",
-  "apkSizeBytes": 4421982,
-  "apkSha256": "2c7f83ec2100af344e817e75e181021337f62916f02bb1b50227249576712751"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=44",
+  "apkSizeBytes": 4438398,
+  "apkSha256": "b6e9da686297bbba5b6240828644a3d50100bbb68b838e717a785c63cb66b785"
 }
