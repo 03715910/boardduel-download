@@ -1,10 +1,10 @@
 {
-  "latestVersionCode": 44,
+  "latestVersionCode": 45,
   "minimumSupportedVersionCode": 8,
-  "latestVersionName": "10.4",
-  "message": "七煌麻雀のチュートリアルを5レベル式にしました。牌と完成形、自分と相手の番、ツモ・ロン・点数、チー・技・凄技・リーチを固定のお手本と実操作で練習し、最後は模擬1局を体験できます。押す場所の案内、再生・一時停止・1手ずつ、途中再開と復習に対応。従来の18項目も辞典に残しています。通常対戦・CPU・オンラインのルールは変更していません。",
+  "latestVersionName": "10.5",
+  "message": "七煌麻雀のチュートリアルを見直しました。Lv.1は、あと1枚を引いて実際に上がる体験から始め、なぜ完成したかを大きな牌の見本で説明します。色を揃えたり3枚を無目的に選ぶ課題を廃止。全5レベルで、対象近くの矢印付き吹き出しと操作前後の短い案内を使います。以前のクリア状況・通常対局は維持。旧Lv.1の中断記録のみ、新しい冒頭から案内します。",
   "websiteUrl": "https://03715910.github.io/boardduel-download/",
-  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=44",
-  "apkSizeBytes": 4438398,
-  "apkSha256": "b6e9da686297bbba5b6240828644a3d50100bbb68b838e717a785c63cb66b785"
+  "apkUrl": "https://03715910.github.io/boardduel-download/BoardDuel.apk?v=45",
+  "apkSizeBytes": 4454782,
+  "apkSha256": "07ed888e32cb505c27a8d0f9685ad593666870f5030906e864afbc5b59eb93d1"
 }
